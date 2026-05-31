@@ -40,5 +40,3 @@
 - [Habr (комментарии)](https://habr.com/ru/users/Tribble58/comments/)
 
 ---
-
-📫 Всегда открыт для интересных задач и обсуждения лучших практик в Data Engineering.
